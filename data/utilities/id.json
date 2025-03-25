@@ -1,0 +1,115 @@
+{
+  "categoryName": "Utilitas",
+  "apis": [
+    {
+      "apiName": "APIMock",
+      "status": true,
+      "documentationUrl": "https://apimock.lazycatlabs.com",
+      "developer": {
+        "name": "Lazycatlabs",
+        "profileUrl": "https://github.com/lazycatlabs"
+      },
+      "description": "API Mocking dengan fitur Register, Login dan pemanggilan pagination data dengan menggunakan JWT Authentication.",
+      "authentication": false
+    },
+    {
+      "apiName": "Arbanat",
+      "status": false,
+      "documentationUrl": "https://arbanat.my.id",
+      "developer": {
+        "name": "jajanjawa",
+        "profileUrl": null
+      },
+      "description": "kirim sms melalui rest api.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Daftar nama Bank di Indonesia",
+      "status": true,
+      "documentationUrl": "https://bank.thecloudalert.com",
+      "developer": {
+        "name": "cenahcoid",
+        "profileUrl": "https://www.cenah.co.id/"
+      },
+      "description": "Daftar Bank yang ada di Indonesia (Gratis)",
+      "authentication": false
+    },
+    {
+      "apiName": "Distrowatch API (unofficial)",
+      "status": true,
+      "documentationUrl": "https://github.com/Zzzul/diwa",
+      "developer": {
+        "name": "Zulfahmi",
+        "profileUrl": null
+      },
+      "description": "API untuk mendapatkan informasi seputar Linux.",
+      "authentication": false
+    },
+    {
+      "apiName": "Google Playstore",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/google-play-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Google playstore API.",
+      "authentication": false
+    },
+    {
+      "apiName": "Google Trends",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/google-trends-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Realtime Google Trends API.",
+      "authentication": false
+    },
+    {
+      "apiName": "Indiwtf API",
+      "status": true,
+      "documentationUrl": "https://indiwtf.com/api/",
+      "developer": {
+        "name": "Frans Allen",
+        "profileUrl": null
+      },
+      "description": "Sebuah API sederhana untuk mengecek apakah sebuah website diblokir di Indonesia atau tidak.",
+      "authentication": false
+    },
+    {
+      "apiName": "Screenshot API",
+      "status": true,
+      "documentationUrl": "https://statically.io",
+      "developer": {
+        "name": "statically.io",
+        "profileUrl": null
+      },
+      "description": "Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler.",
+      "authentication": false
+    },
+    {
+      "apiName": "SMSNotif",
+      "status": true,
+      "documentationUrl": "https://www.smsnotif.id",
+      "developer": {
+        "name": "PT Solusi Inovasi Bisnis",
+        "profileUrl": null
+      },
+      "description": "Kirim sms melalui REST API atau Laravel Notification.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Translasi",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/api-translate",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "API translasi dengan google translate/baidu translate engine.",
+      "authentication": false
+    }
+  ]
+}

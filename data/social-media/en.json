@@ -1,0 +1,60 @@
+{
+  "categoryName": "Social Media",
+  "apis": [
+    {
+      "apiName": "Facebook Video Downloader",
+      "status": true,
+      "documentationUrl": "https://codeberg.org/bramaudi/fbdown",
+      "developer": {
+        "name": "bramaudi",
+        "profileUrl": null
+      },
+      "description": "Unofficial Facebook API for Scraping Facebook Videos.",
+      "authentication": false
+    },
+    {
+      "apiName": "Twitter Trends",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/twitter-trends-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Unofficial API for Twitter trends data.",
+      "authentication": false
+    },
+    {
+      "apiName": "Unofficial Youtube Api",
+      "status": true,
+      "documentationUrl": "https://github.com/FatihArridho/Unofficial-YoutubeApi",
+      "developer": {
+        "name": "FatihArridho",
+        "profileUrl": null
+      },
+      "description": "Unofficial Youtube A simple api to search for videos, channels, playlists.",
+      "authentication": false
+    },
+    {
+      "apiName": "Whatsapp Cloud API Wrapper",
+      "status": true,
+      "documentationUrl": "https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper",
+      "developer": {
+        "name": "fdciabdul",
+        "profileUrl": null
+      },
+      "description": "Unofiicial Wrapper untuk Whatsapp Cloud API.",
+      "authentication": false
+    },
+    {
+      "apiName": "Whatsapp Official API ",
+      "status": true,
+      "documentationUrl": "https://developers.facebook.com/docs/whatsapp",
+      "developer": {
+        "name": "Facebook",
+        "profileUrl": null
+      },
+      "description": "Official API for Whatsapp Cloud API.",
+      "authentication": false
+    }
+  ]
+}

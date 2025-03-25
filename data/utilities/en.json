@@ -1,0 +1,115 @@
+{
+  "categoryName": "Utilities",
+  "apis": [
+    {
+      "apiName": "APIMock",
+      "status": true,
+      "documentationUrl": "https://apimock.lazycatlabs.com",
+      "developer": {
+        "name": "Lazycatlabs",
+        "profileUrl": "https://github.com/lazycatlabs"
+      },
+      "description": "API Mocking with Register, Login and fetch pagination data using JWT Authentication.",
+      "authentication": false
+    },
+    {
+      "apiName": "Arbanat",
+      "status": false,
+      "documentationUrl": "https://arbanat.my.id",
+      "developer": {
+        "name": "jajanjawa",
+        "profileUrl": null
+      },
+      "description": "Send SMS through REST API.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Distrowatch API (unofficial)",
+      "status": true,
+      "documentationUrl": "https://github.com/Zzzul/diwa",
+      "developer": {
+        "name": "Zulfahmi",
+        "profileUrl": null
+      },
+      "description": "API to get information about Linux.",
+      "authentication": false
+    },
+    {
+      "apiName": "Google Playstore",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/google-play-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Google Playstore API.",
+      "authentication": false
+    },
+    {
+      "apiName": "Google Trends",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/google-trends-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Realtime Google Trends API.",
+      "authentication": false
+    },
+    {
+      "apiName": "Indiwtf API",
+      "status": true,
+      "documentationUrl": "https://indiwtf.com/api/",
+      "developer": {
+        "name": "Frans Allen",
+        "profileUrl": null
+      },
+      "description": "A simple API to check if a website is blocked in Indonesia or not.",
+      "authentication": false
+    },
+    {
+      "apiName": "Indonesian Bank",
+      "status": true,
+      "documentationUrl": "https://bank.thecloudalert.com",
+      "developer": {
+        "name": "cenahcoid",
+        "profileUrl": "https://www.cenah.co.id/"
+      },
+      "description": "List of banks in Indonesia",
+      "authentication": false
+    },
+    {
+      "apiName": "Screenshot API",
+      "status": true,
+      "documentationUrl": "https://statically.io",
+      "developer": {
+        "name": "statically.io",
+        "profileUrl": null
+      },
+      "description": "A free screenshot API to convert web to image or PDF. Supports desktop and mobile views.",
+      "authentication": false
+    },
+    {
+      "apiName": "SMSNotif",
+      "status": true,
+      "documentationUrl": "https://www.smsnotif.id",
+      "developer": {
+        "name": "PT Solusi Inovasi Bisnis",
+        "profileUrl": null
+      },
+      "description": "Send SMS through REST API or Laravel Notification.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Translasi",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/api-translate",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Translation API with Google Translate/Baidu Translate engine.",
+      "authentication": false
+    }
+  ]
+}

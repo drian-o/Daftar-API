@@ -1,0 +1,104 @@
+{
+  "categoryName": "Education",
+  "apis": [
+    {
+      "apiName": "API Data Sekolah Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/wanrabbae/api-sekolah-indonesia",
+      "developer": {
+        "name": "Alwan",
+        "profileUrl": null
+      },
+      "description": "Complete data of schools in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data Sekolah API",
+      "status": true,
+      "documentationUrl": "https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia",
+      "developer": {
+        "name": "Ahmad Ramadhan",
+        "profileUrl": null
+      },
+      "description": "Public school data in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Hibersunda Sundanese Dictionary",
+      "status": true,
+      "documentationUrl": "https://github.com/hiberin/hibersunda",
+      "developer": {
+        "name": "Hiberin Digital",
+        "profileUrl": null
+      },
+      "description": "API for searching words in the Sundanese Dictionary.",
+      "authentication": false
+    },
+    {
+      "apiName": "KBBI API",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/kbbi-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "KBBI REST API.",
+      "authentication": false
+    },
+    {
+      "apiName": "KBBI Offline API",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/KBBI-SQL-database",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
+      },
+      "description": "KBBI local database, Contains 115,978 Word data, available for MySQL, SQLite and PostgreSQL. Also available for CSV, JSON, Markdown, PHP Array, XML, DbUnit, HTML data formats.",
+      "authentication": false
+    },
+    {
+      "apiName": "KBBI Online API",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
+      },
+      "description": "API to get information on Words and Proverbs based on the Big Indonesian Dictionary, data comes from https://kbbi.kemdikbud.go.id taken using the HTML Parsing method using PHP.",
+      "authentication": false
+    },
+    {
+      "apiName": "New KBBI API",
+      "status": true,
+      "documentationUrl": "https://github.com/btrianurdin/new-kbbi-api",
+      "developer": {
+        "name": "btrianurdin",
+        "profileUrl": null
+      },
+      "description": "KBBI API with complete lemma, word class, and meanings.",
+      "authentication": false
+    },
+    {
+      "apiName": "Python 3 API wrapper for PDDIKTI",
+      "status": true,
+      "documentationUrl": "https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API",
+      "developer": {
+        "name": "IlhamRisky",
+        "profileUrl": null
+      },
+      "description": "Python API wrapper that fetches data from the PDDIKTI website, including data about Universities, Study Programs, Professors, Students/Alumni, News, Reports, etc.",
+      "authentication": false
+    },
+    {
+      "apiName": "Wikipedia API",
+      "status": true,
+      "documentationUrl": "https://www.mediawiki.org/wiki/API:Tutorial",
+      "developer": {
+        "name": "Mediawiki",
+        "profileUrl": null
+      },
+      "description": "API for retrieving information used from Wikipedia.",
+      "authentication": false
+    }
+  ]
+}

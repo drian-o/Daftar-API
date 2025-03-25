@@ -1,0 +1,38 @@
+{
+  "categoryName": "Buku",
+  "apis": [
+    {
+      "apiName": "Bukuacak",
+      "status": true,
+      "documentationUrl": "https://bukuacak.vercel.app/api",
+      "developer": {
+        "name": "Shabri A.",
+        "profileUrl": null
+      },
+      "description": "Bukuacak adalah API yang menyediakan data buku dengan berbagai filter, pengurutan, dan opsi pencarian acak.",
+      "authentication": false
+    },
+    {
+      "apiName": "Masak Apa",
+      "status": true,
+      "documentationUrl": "https://github.com/tomorisakura/unofficial-masakapahariini-api",
+      "developer": {
+        "name": "Reski",
+        "profileUrl": null
+      },
+      "description": "Buku resep makanan Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Unofficial Gramedia Ebooks",
+      "status": true,
+      "documentationUrl": "https://github.com/yusuftaufiq/laravel-books-api",
+      "developer": {
+        "name": "Yusuf T.",
+        "profileUrl": null
+      },
+      "description": "Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping.",
+      "authentication": "API KEY"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "categoryName": "Serba Guna",
+  "apis": [
+    {
+      "apiName": "Akuari Api",
+      "status": true,
+      "documentationUrl": "https://api.akuari.my.id/",
+      "developer": {
+        "name": "akuari",
+        "profileUrl": null
+      },
+      "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
+      "authentication": false
+    },
+    {
+      "apiName": "Milfu API",
+      "status": true,
+      "documentationUrl": "https://milfu-api.is-a-cool.dev",
+      "developer": {
+        "name": "Jauhariq",
+        "profileUrl": "https://github.com/jauhariq"
+      },
+      "description": "Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!",
+      "authentication": false
+    },
+    {
+      "apiName": "Ryzen API",
+      "status": true,
+      "documentationUrl": "https://api.ryzendesu.vip",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
+      "authentication": false
+    }
+  ]
+}

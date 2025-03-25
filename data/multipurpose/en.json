@@ -1,0 +1,38 @@
+{
+  "categoryName": "Multipurpose",
+  "apis": [
+    {
+      "apiName": "Akuari Api",
+      "status": true,
+      "documentationUrl": "https://api.akuari.my.id/",
+      "developer": {
+        "name": "akuari",
+        "profileUrl": null
+      },
+      "description": "A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.",
+      "authentication": false
+    },
+    {
+      "apiName": "Milfu API",
+      "status": true,
+      "documentationUrl": "https://milfu-api.is-a-cool.dev",
+      "developer": {
+        "name": "Jauhariq",
+        "profileUrl": "https://github.com/jauhariq"
+      },
+      "description": "Providing a wide variety of APIs for free with no usage limits to help simplify your development process!",
+      "authentication": false
+    },
+    {
+      "apiName": "Ryzen API",
+      "status": true,
+      "documentationUrl": "https://api.ryzendesu.vip",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
+      "authentication": false
+    }
+  ]
+}
